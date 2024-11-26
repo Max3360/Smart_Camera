@@ -19,7 +19,7 @@ https://www.python.org/downloads/
 ```
 pip install
 ```bash
-  python get-pip.py
+python get-pip.py
 ```
 Package remaining files lnstall_Update.py
 It will handle the installation automatically.
