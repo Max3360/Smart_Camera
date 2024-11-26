@@ -8,3 +8,20 @@ Use Yolo8n to Detect Security in The Area
 
 
 # Install Required Packages
+Install What is required in the project 
+You must install python 3.9 Or if it already exists It doesn't need to be installed.
+
+opencv-python
+```bash
+  pip install opencv-python
+```
+Imutils
+
+```bash
+  pip install imutils
+```
+Requests
+
+```bash
+  pip install requests
+```
